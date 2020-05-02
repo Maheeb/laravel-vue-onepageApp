@@ -6,4 +6,4 @@
 
 This is a one page application where I fetched all the data from API. Using Vuejs and fetch API CRUD operation is possible here.
 
-
+:)
